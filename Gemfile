@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'fast_jsonapi'
 
+gem 'nokogiri', ">= 1.11.0.rc4"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
